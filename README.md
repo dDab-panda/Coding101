@@ -1,5 +1,5 @@
 # Coding101
-##Files for summer course coding101
+Files for summer course coding101
 
 Over the course of the next two weeks we will cover three important technologies that will help you level up your development skills.
 Course sylabus is
